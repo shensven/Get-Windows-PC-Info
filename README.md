@@ -1,8 +1,8 @@
 [![](https://img.shields.io/badge/Windows%2010%20Enterprise%20LTSC%202019-tested-blue)](https://github.com/shensven/Get-Windows-PC-Info)
 [![](https://img.shields.io/badge/Windows%2010%20Enterprise%202016%20LTSB-tested-blue)](https://github.com/shensven/Get-Windows-PC-Info)
 
-[![](https://img.shields.io/badge/Windows%2010%20version%201903-tested-blue)](https://github.com/shensven/Get-Windows-PC-Info)
-[![](https://img.shields.io/badge/Windows%2010%20version%201806-tested-blue)](https://github.com/shensven/Get-Windows-PC-Info)
+[![](https://img.shields.io/badge/Windows%2010%20version%201809-tested-blue)](https://github.com/shensven/Get-Windows-PC-Info)
+[![](https://img.shields.io/badge/Windows%2010%20version%201607-tested-blue)](https://github.com/shensven/Get-Windows-PC-Info)
 
 [![](https://img.shields.io/badge/Windows%207%20Ultimate-tested-blue)](https://github.com/shensven/Get-Windows-PC-Info)
 
