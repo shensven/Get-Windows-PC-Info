@@ -1,7 +1,8 @@
 @echo off
 
-@REM Encode: UFT-8
+@REM Encode: UTF-8
 @REM Auther: Sven
+@REM Website: https://github.com/shensven/Get-Windows-PC-Info
 
 echo Waiting...
 
